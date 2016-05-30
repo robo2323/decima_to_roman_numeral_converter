@@ -1,3 +1,3 @@
-# decima_to_roman_numeral_converter
+# decimal to roman numeral converter
 
 JS to convert decimal numbers to Roman numerals
